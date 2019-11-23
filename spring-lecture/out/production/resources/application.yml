@@ -10,10 +10,7 @@ spring:
     encoding:
       charset: UTF-8
       enabled: true
-  mvc:
-    view:
-      prefix: /WEB-INF/jsp/
-      suffix: .jsp
+
 
 myConfig:
   myObject:
